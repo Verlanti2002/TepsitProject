@@ -1,0 +1,108 @@
+2021-06-01 21:33:00,468 - server.start - INFO - Connection of 127.0.0.1:63380
+2021-06-01 21:33:00,468 - server.start - INFO - Active connections: 1
+2021-06-01 21:34:39,985 - server.login - INFO - Client autenticato!
+2021-06-01 21:34:54,555 - server.start - INFO - Connection of 127.0.0.1:60168
+2021-06-01 21:34:54,556 - server.start - INFO - Active connections: 2
+2021-06-01 21:34:57,944 - server.login - ERROR - Credenziali errate!
+2021-06-01 21:34:57,944 - server.start_app - ERROR - [WinError 10053] Connessione interrotta dal software del computer host
+2021-06-01 21:35:00,477 - server.start - INFO - Connection of 127.0.0.1:60169
+2021-06-01 21:35:00,477 - server.start - INFO - Active connections: 2
+2021-06-01 21:45:15,948 - server.start - INFO - Connection of 127.0.0.1:53518
+2021-06-01 21:45:15,948 - server.start - INFO - Active connections: 1
+2021-06-01 21:45:21,977 - server.start - INFO - Connection of 127.0.0.1:53519
+2021-06-01 21:45:21,977 - server.start - INFO - Active connections: 2
+2021-06-01 21:45:32,243 - server.login - ERROR - Credenziali errate!
+2021-06-01 21:45:32,244 - server.start_app - ERROR - [WinError 10053] Connessione interrotta dal software del computer host
+2021-06-01 21:45:34,184 - server.login - ERROR - Credenziali errate!
+2021-06-01 21:45:34,184 - server.start_app - ERROR - [WinError 10053] Connessione interrotta dal software del computer host
+2021-06-01 21:45:52,042 - server.start - INFO - Connection of 127.0.0.1:53522
+2021-06-01 21:45:52,042 - server.start - INFO - Active connections: 1
+2021-06-01 21:46:02,237 - server.login - INFO - Client autenticato!
+2021-06-01 21:46:06,299 - database.__init__ - ERROR - Can't connect to MySQL server on 'localhost' (10061)
+2021-06-01 21:48:03,596 - server.start - INFO - Connection of 127.0.0.1:50658
+2021-06-01 21:48:03,596 - server.start - INFO - Active connections: 1
+2021-06-01 21:48:08,391 - server.login - INFO - Client autenticato!
+2021-06-01 21:48:12,442 - database.__init__ - ERROR - Can't connect to MySQL server on 'localhost' (10061)
+2021-06-01 21:48:12,442 - server.start_app - ERROR - 
+2021-06-01 21:54:20,231 - server.start - INFO - Connection of 127.0.0.1:52004
+2021-06-01 21:54:20,231 - server.start - INFO - Active connections: 1
+2021-06-01 21:54:25,899 - server.login - INFO - Client autenticato!
+2021-06-01 21:54:29,935 - database.__init__ - ERROR - Can't connect to MySQL server on 'localhost' (10061)
+2021-06-01 21:58:52,919 - server.start - INFO - Connection of 127.0.0.1:62297
+2021-06-01 21:58:52,919 - server.start - INFO - Active connections: 1
+2021-06-01 21:59:03,383 - server.login - INFO - Client autenticato!
+2021-06-01 21:59:07,431 - server.menu - ERROR - Can't connect to MySQL server on 'localhost' (10061)
+2021-06-01 21:59:07,431 - server.decline_connection - INFO - Database not connected
+2021-06-01 21:59:07,431 - server.start_app - ERROR - 
+2021-06-01 22:02:12,981 - server.start - INFO - Connection of 127.0.0.1:63454
+2021-06-01 22:02:12,981 - server.start - INFO - Active connections: 1
+2021-06-01 22:02:17,467 - server.login - INFO - Client autenticato!
+2021-06-01 22:02:21,525 - server.menu - ERROR - Can't connect to MySQL server on 'localhost' (10061)
+2021-06-01 22:02:21,525 - server.decline_connection - INFO - Database not connected
+2021-06-01 22:02:21,525 - server.start_app - ERROR - 
+2021-06-01 22:04:13,902 - server.start - INFO - Connection of 127.0.0.1:50330
+2021-06-01 22:04:13,902 - server.start - INFO - Active connections: 1
+2021-06-01 22:04:18,207 - server.login - INFO - Client autenticato!
+2021-06-01 22:04:22,243 - server.menu - ERROR - Can't connect to MySQL server on 'localhost' (10061)
+2021-06-01 22:04:22,243 - server.decline_connection - INFO - Database not connected
+2021-06-01 22:04:22,243 - server.start_app - ERROR - 
+2021-06-01 22:08:20,871 - server.start - INFO - Connection of 127.0.0.1:58605
+2021-06-01 22:08:20,871 - server.start - INFO - Active connections: 1
+2021-06-01 22:08:41,222 - server.start_app - ERROR - [WinError 10054] Connessione in corso interrotta forzatamente dall'host remoto
+2021-06-01 22:08:50,346 - server.start - INFO - Connection of 127.0.0.1:58607
+2021-06-01 22:08:50,346 - server.start - INFO - Active connections: 1
+2021-06-01 22:08:55,002 - server.login - INFO - Client autenticato!
+2021-06-01 22:08:59,031 - server.menu - ERROR - Can't connect to MySQL server on 'localhost' (10061)
+2021-06-01 22:08:59,031 - server.decline_connection - INFO - Database not connected
+2021-06-01 22:08:59,031 - server.start_app - ERROR - 
+2021-06-01 22:11:01,066 - server.start - INFO - Connection of 127.0.0.1:49485
+2021-06-01 22:11:01,066 - server.start - INFO - Active connections: 1
+2021-06-01 22:11:05,263 - server.login - INFO - Client autenticato!
+2021-06-01 22:11:09,353 - server.menu - ERROR - Can't connect to MySQL server on 'localhost' (10061)
+2021-06-01 22:11:09,353 - server.decline_connection - INFO - Database not connected
+2021-06-01 22:11:09,353 - server.start_app - ERROR - 
+2021-06-01 22:12:10,898 - server.start - INFO - Connection of 127.0.0.1:55207
+2021-06-01 22:12:10,898 - server.start - INFO - Active connections: 1
+2021-06-01 22:13:01,700 - server.start_app - ERROR - [WinError 10054] Connessione in corso interrotta forzatamente dall'host remoto
+2021-06-01 22:14:16,963 - server.start - INFO - Connection of 127.0.0.1:60259
+2021-06-01 22:14:16,963 - server.start - INFO - Active connections: 1
+2021-06-01 22:14:36,568 - server.start_app - ERROR - [WinError 10054] Connessione in corso interrotta forzatamente dall'host remoto
+2021-06-01 22:14:39,190 - server.start - INFO - Connection of 127.0.0.1:60261
+2021-06-01 22:14:39,190 - server.start - INFO - Active connections: 1
+2021-06-01 22:14:46,354 - server.login - INFO - Client autenticato!
+2021-06-01 22:14:50,413 - server.menu - ERROR - Can't connect to MySQL server on 'localhost' (10061)
+2021-06-01 22:14:50,413 - server.decline_connection - INFO - Database not connected
+2021-06-01 22:14:50,413 - server.start_app - ERROR - 
+2021-06-01 22:16:49,782 - server.start - INFO - Connection of 127.0.0.1:61898
+2021-06-01 22:16:49,782 - server.start - INFO - Active connections: 1
+2021-06-01 22:16:54,238 - server.login - INFO - Client autenticato!
+2021-06-01 22:16:58,266 - server.menu - ERROR - Can't connect to MySQL server on 'localhost' (10061)
+2021-06-01 22:16:58,266 - server.decline_connection - INFO - Database not connected
+2021-06-01 22:16:58,266 - server.start_app - ERROR - 
+2021-06-01 22:17:02,984 - server.start - INFO - Connection of 127.0.0.1:56229
+2021-06-01 22:17:02,985 - server.start - INFO - Active connections: 1
+2021-06-01 22:17:07,496 - server.login - INFO - Client autenticato!
+2021-06-01 22:17:11,540 - server.menu - ERROR - Can't connect to MySQL server on 'localhost' (10061)
+2021-06-01 22:17:11,540 - server.decline_connection - INFO - Database not connected
+2021-06-01 22:17:11,540 - server.start_app - ERROR - 
+2021-06-03 08:22:39,979 - server.start - INFO - Connection of 127.0.0.1:59154
+2021-06-03 08:22:39,980 - server.start - INFO - Active connections: 1
+2021-06-03 08:22:45,016 - server.login - ERROR - Credenziali errate!
+2021-06-03 08:22:45,016 - server.start_app - ERROR - [WinError 10053] Connessione interrotta dal software del computer host
+2021-06-03 09:45:51,352 - server.start - INFO - Connection of 127.0.0.1:59063
+2021-06-03 09:45:51,353 - server.start - INFO - Active connections: 1
+2021-06-03 09:45:57,895 - server.login - INFO - Client autenticato!
+2021-06-03 09:46:10,180 - server.update - INFO - Aggiornamento avvenuto con successo!
+2021-06-03 09:46:36,111 - server.update - INFO - Aggiornamento avvenuto con successo!
+2021-06-03 09:46:53,416 - server.update - INFO - Aggiornamento avvenuto con successo!
+2021-06-03 09:46:55,591 - server.start_app - ERROR - [WinError 10053] Connessione interrotta dal software del computer host
+2021-06-04 18:54:13,037 - server.start - INFO - Connection of 127.0.0.1:64626
+2021-06-04 18:54:13,038 - server.start - INFO - Active connections: 1
+2021-06-04 18:54:19,524 - server.login - INFO - Client autenticato!
+2021-06-04 18:54:23,614 - server.menu - ERROR - Can't connect to MySQL server on 'localhost' (10061)
+2021-06-04 18:54:23,614 - server.decline_connection - INFO - Database not connected
+2021-06-04 18:54:23,614 - server.start_app - ERROR - 
+2021-06-05 11:01:44,327 - server.start - INFO - Connection of 127.0.0.1:64942
+2021-06-05 11:01:44,327 - server.start - INFO - Active connections: 1
+2021-06-05 11:01:50,508 - server.login - INFO - Client autenticato!
+2021-06-05 11:02:39,826 - server.start_app - ERROR - [WinError 10053] Connessione interrotta dal software del computer host

@@ -1,0 +1,13 @@
+2021-06-01 21:31:04,985 - client.start - ERROR - [WinError 10038] Tentativo di operazione su un elemento diverso dal socket
+2021-06-01 21:34:57,958 - client.start - ERROR - [WinError 10038] Tentativo di operazione su un elemento diverso dal socket
+2021-06-01 21:45:32,257 - client.start - ERROR - [WinError 10038] Tentativo di operazione su un elemento diverso dal socket
+2021-06-01 21:45:34,200 - client.start - ERROR - [WinError 10038] Tentativo di operazione su un elemento diverso dal socket
+2021-06-01 22:00:47,470 - client.start - ERROR - [WinError 10038] Tentativo di operazione su un elemento diverso dal socket
+2021-06-01 22:11:09,353 - client.start - ERROR - callback_error() takes 1 positional argument but 4 were given
+2021-06-01 22:14:50,413 - client.start - ERROR - callback_error() takes 1 positional argument but 4 were given
+2021-06-01 22:16:58,266 - client.start - ERROR - callback_error() takes 1 positional argument but 4 were given
+2021-06-01 22:17:11,540 - client.start - ERROR - callback_error() takes 1 positional argument but 4 were given
+2021-06-03 08:22:45,028 - client.start - ERROR - [WinError 10038] Tentativo di operazione su un elemento diverso dal socket
+2021-06-03 09:46:55,612 - client.start - ERROR - [WinError 10038] Tentativo di operazione su un elemento diverso dal socket
+2021-06-04 18:54:24,289 - client.start - ERROR - callback_error() takes 1 positional argument but 4 were given
+2021-06-05 11:02:39,847 - client.start - ERROR - [WinError 10038] Tentativo di operazione su un elemento diverso dal socket
